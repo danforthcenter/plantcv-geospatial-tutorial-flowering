@@ -8,4 +8,4 @@ This tutorial is for local use only as it uses napari, which will not open throu
 
 Geospatial, tutorial, flowering, color
 
-[![test-pr](https://github.com/danforthcenter/plantcv-tutorial-template/actions/workflows/ci-tests.yml/badge.svg)](https://github.com/danforthcenter/plantcv-tutorial-template/actions/workflows/ci-tests.yml)
+[![test-pr](https://github.com/danforthcenter/plantcv-geospatial-tutorial-flowering/actions/workflows/ci-tests.yml/badge.svg)](https://github.com/danforthcenter/plantcv-geospatial-tutorial-flowering/actions/workflows/ci-tests.yml)
