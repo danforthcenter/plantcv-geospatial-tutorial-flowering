@@ -1,4 +1,4 @@
-# PlantCV-Geospatial: Flowering Time and/or Amount Tutorial
+# PlantCV-Geospatial: Flowering Time and/or Flower Amount Tutorial
 
 Example use of PlantCV-Geospatial to find flowers in a field of individual plants. 
 
